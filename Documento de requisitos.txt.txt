@@ -18,6 +18,10 @@ cu002:Imprimir Kardex
 cu003:Cargar materias
 ---------------------------------------------------------------------------------------
 
+Conclusiones:
+Este sistemka sirve para gestionar los servicios del departamento de control escolar.
+
+
 
 
 

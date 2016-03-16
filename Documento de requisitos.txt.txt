@@ -6,6 +6,12 @@ RF001:El sistema debe permitir el registro de alumnos
 RF002:El sistema debe imprimir reporte de calificaciones 
 RF003:El sistema debe permitir la carga de materias
 ---------------------------------------------------------------------------------------
+Requisitos no funcionales:
+RNF001:El sistema debe ser usable
+RNF002:El sistema debe ser rapido
+RNF003:El sistema debe ser seguro
+
+--------------------------------------------------------------------------------------
 
 
 

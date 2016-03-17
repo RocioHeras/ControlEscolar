@@ -1,0 +1,29 @@
+commit 705085b62cac400f1767ad7eb7bf8025a64da48b
+Author: ROCIO <rocio_gpe_95@hotmail.com>
+Date:   Wed Mar 16 10:35:56 2016 -0700
+
+    Conclusiones
+
+commit e80c99dc45e59a95d1063981b2d5e56b8a0bdb7b
+Author: ROCIO <rocio_gpe_95@hotmail.com>
+Date:   Wed Mar 16 10:34:03 2016 -0700
+
+    Apartado de casos de uso
+
+commit 3f1e7438cd3ac3c3a9fae883124fcc60140b790e
+Author: ROCIO <rocio_gpe_95@hotmail.com>
+Date:   Wed Mar 16 10:32:22 2016 -0700
+
+    Requisitos no funcionales
+
+commit 14a9bcb35c0fc90e597c0a4c6734badef8a37dd2
+Author: ROCIO <rocio_gpe_95@hotmail.com>
+Date:   Wed Mar 16 10:24:13 2016 -0700
+
+    Requisitos funcionales
+
+commit 080e4f4431cc21edb01da58980e8a201c1e7d8d0
+Author: ROCIO <rocio_gpe_95@hotmail.com>
+Date:   Tue Mar 15 11:00:47 2016 -0700
+
+    Documento de requisitos

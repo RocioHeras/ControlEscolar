@@ -1,56 +1,15 @@
 Documento de requisito v1.0
 ---------------------------------------------------------------------
-Requisitos funcionales:
 
-RF001:El sistema debe permitir el registro de alumnos 
-RF002:El sistema debe imprimir reporte de calificaciones 
-RF003:El sistema debe permitir la carga de materias
----------------------------------------------------------------------------------------
-Requisitos no funcionales:
-RNF001:El sistema debe ser usable
-RNF002:El sistema debe ser rapido
-RNF003:El sistema debe ser seguro
-
---------------------------------------------------------------------------------------
-Lista de casos de uso:
-cu001:Registrar alumnos
-cu002:Imprimir Kardex
-cu003:Cargar materias
----------------------------------------------------------------------------------------
-
-Conclusiones:
-Este sistemka sirve para gestionar los servicios del departamento de control escolar.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Nueva Seccion
+--------------------------------------------------------------------_
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
